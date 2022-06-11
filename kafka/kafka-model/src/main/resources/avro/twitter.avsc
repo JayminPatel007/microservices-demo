@@ -1,5 +1,5 @@
 {
-  "namespace": "com.jaymin.kafka.avro.model",
+  "namespace": "com.jaymin.microservice_demo.kafka.avro.model",
   "type": "record",
   "name": "TwitterAvroModel",
   "fields": [
