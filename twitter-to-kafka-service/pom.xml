@@ -33,6 +33,16 @@
             <artifactId>app-config-data</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.jaymin</groupId>
+            <artifactId>kafka-producer</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.jaymin</groupId>
+            <artifactId>kafka-admin</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
